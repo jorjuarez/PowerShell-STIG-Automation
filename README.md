@@ -5,11 +5,11 @@ This repository contains a collection of PowerShell scripts designed to automate
 The goal of these scripts is to provide a reliable and efficient way to apply security configurations, ensuring compliance and hardening systems against vulnerabilities.
 
 ## Scripts
-This collection includes scripts for the following STIGs:
+This collection includes the script for the following STIGs:
 
-| STIG ID              | Description                                                  | Script File                        |
-| -------------------- | ------------------------------------------------------------ | ---------------------------------- |
-| **WN10-AU-000500** | Ensures the Application event log maximum size is configured to at least 32768 KB. | `STIG-ID-WN10-AU-000500.ps1` |
+| STIG ID              | Description                                                  | Script File                                                                                                                              |
+| -------------------- | ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| **WN10-AU-000500** | Ensures the Application event log maximum size is configured to at least 32768 KB. | [`STIG-ID-WN10-AU-000500.ps1`](https://github.com/jorjuarez/PowerShell-STIG-Automation/blob/main/STIG-ID-WN10-AU-000500.ps1) |
 
 
 ## Usage
