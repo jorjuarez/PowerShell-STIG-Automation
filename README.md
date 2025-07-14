@@ -1,4 +1,4 @@
-# Windows STIG Hardening Scripts
+# Windows STIG Hardening Scripts - WN10-AU-000500
 ## Overview
 This repository contains a collection of PowerShell scripts designed to automate the remediation of security findings based on the Defense Information Systems Agency (DISA) Security Technical Implementation Guides (STIGs) for Windows systems.
 
